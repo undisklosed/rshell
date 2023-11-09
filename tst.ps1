@@ -1,0 +1,1 @@
+echo "ONSALDKNASD" > C:\Users\abbas\Downloads\AOSNDOSADK.txt
